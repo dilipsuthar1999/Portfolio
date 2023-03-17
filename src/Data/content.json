@@ -1,0 +1,283 @@
+{
+    "Logo": {
+        "img": "images/photos/logo.png",
+        "name": "My Portfolio Logo"
+    },
+    "NavIcon": {
+        "Open": {
+            "img": "images/icons/menu.svg",
+            "name": "Open"
+        },
+        "Close": {
+            "img": "images/icons/close.svg",
+            "name": "Close"
+        },
+        "Dark":{
+            "img": "images/icons/dark-theme.svg",
+            "name": "Dark Theme"
+        },
+        "Light":{
+            "img": "images/icons/light-theme.svg",
+            "name": "Light Theme"
+        }
+    },
+    "About": {
+        "heading": "Hey, I'm Dilip",
+        "subHeading": "UI UX Designer / Front End Developer",
+        "desc": "Focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found my interest into web designer/ development.",
+        "roles": [
+            {
+                "img": "images/icons/designer.svg",
+                "name": "Designer",
+                "desc": "I value simple content structure, clean design patterns, and thoughtful interactions.",
+                "skills": [
+                    {
+                        "name": "Figma",
+                        "img": "images/photos/figma.png"
+                    },
+                    {
+                        "name": "Adobe XD",
+                        "img": "images/photos/xd.png"
+                    }
+                ]
+            },
+            {
+                "img": "images/icons/front-end-dev.svg",
+                "name": "Front End Developer",
+                "desc": "I like to code things from scratch, and enjoy bringing ideas to life in the browser.",
+                "skills": [
+                    {
+                        "name": "HTML",
+                        "img": "images/photos/html.png"
+                    },
+                    {
+                        "name": "CSS",
+                        "img": "images/photos/css.png"
+                    },
+                    {
+                        "name": "SASS",
+                        "img": "images/photos/sass.png"
+                    },
+                    {
+                        "name": "Bootstrap",
+                        "img": "images/photos/bootstrap.png"
+                    },
+                    {
+                        "name": "Tailwind",
+                        "img": "images/photos/tailwind.png"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "img": "images/photos/js.png"
+                    },
+                    {
+                        "name": "React JS",
+                        "img": "images/photos/react.png"
+                    }
+                ]
+            }
+        ],
+        "illustration": {
+            "img": "images/illustrations/rocket-illustration.png",
+            "name": "Rocket Image"
+        }
+    },
+    "Work": [
+        {
+            "company": "Wipro",
+            "role": "Project Engineer",
+            "period": "Oct 2022 (Present)",
+            "responsibility": "Working As Test Engineer. Doing Manual Testing. Writing test cases and executing test cases. Find and creating test data."
+        },
+        {
+            "company": "Edunify",
+            "role": "Software Developer",
+            "period": "March 2021 - Oct 2022",
+            "responsibility": "Worked As Front End Developer Intern. Creating web page layout design in figma and Implementing in code."
+        },
+        {
+            "company": "WriteSoft",
+            "role": "Web Developer",
+            "period": "Nov 2020 - Jan 2021",
+            "responsibility": "Worked As Web Developer Intern. Implementing web pages as per design."
+        }
+    ],
+    "Projects": [
+        {
+            "img": "images/photos/photographer.png",
+            "name": "Photographer",
+            "role": "Design / Full Stack Development",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "links": [
+                {
+                    "img": "images/icons/dribbble.svg",
+                    "name": "Dribbble",
+                    "link": ""
+                },
+                {
+                    "img": "images/icons/github.svg",
+                    "name": "Github",
+                    "link": ""
+                },
+                {
+                    "img": "",
+                    "name": "Live",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "img": "images/photos/coc.png",
+            "name": "Clash of Clan",
+            "role": "Design / Front End Development",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "links": [
+                {
+                    "img": "images/icons/dribbble.svg",
+                    "name": "Dribbble",
+                    "link": ""
+                },
+                {
+                    "img": "images/icons/github.svg",
+                    "name": "Github",
+                    "link": ""
+                },
+                {
+                    "img": "",
+                    "name": "Live",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "img": "images/photos/tic-tac-toe.png",
+            "name": "Tic-Tac-Toe",
+            "role": "Design / Full Stack Development",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "links": [
+                {
+                    "img": "images/icons/dribbble.svg",
+                    "name": "Dribbble",
+                    "link": ""
+                },
+                {
+                    "img": "images/icons/github.svg",
+                    "name": "Github",
+                    "link": ""
+                },
+                {
+                    "img": "",
+                    "name": "Live",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "img": "images/photos/music.png",
+            "name": "Music",
+            "role": "Design / Front End Development",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "links": [
+                {
+                    "img": "images/icons/dribbble.svg",
+                    "name": "Dribbble",
+                    "link": ""
+                },
+                {
+                    "img": "images/icons/github.svg",
+                    "name": "Github",
+                    "link": ""
+                },
+                {
+                    "img": "",
+                    "name": "Live",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "img": "images/photos/book-store.png",
+            "name": "Book Store",
+            "role": "Design / Front End Development",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "links": [
+                {
+                    "img": "images/icons/dribbble.svg",
+                    "name": "Dribbble",
+                    "link": ""
+                },
+                {
+                    "img": "images/icons/github.svg",
+                    "name": "Github",
+                    "link": ""
+                },
+                {
+                    "img": "",
+                    "name": "Live",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "img": "images/photos/turf-booking.png",
+            "name": "Turf Booking",
+            "role": "Design / Front End Development",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "links": [
+                {
+                    "img": "images/icons/dribbble.svg",
+                    "name": "Dribbble",
+                    "link": ""
+                },
+                {
+                    "img": "images/icons/github.svg",
+                    "name": "Github",
+                    "link": ""
+                },
+                {
+                    "img": "",
+                    "name": "Live",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "Connect": {
+        "heading": {
+            "img": "images/icons/hand-Yo.svg",
+            "name": "Let's do this"
+        },
+        "input": {
+            "img": "images/icons/send-mail.svg",
+            "name": "Send Mail",
+            "src": ""
+        }
+    },
+    "SocialLinks": [
+        {
+            "img": "images/icons/linkedin.svg",
+            "name": "LinkedIn",
+            "link": ""
+        },
+        {
+            "img": "images/icons/github.svg",
+            "name": "Github",
+            "link": ""
+        },
+        {
+            "img": "images/icons/dribbble.svg",
+            "name": "Dribbble",
+            "link": ""
+        },
+        {
+            "img": "images/icons/hackerrank.svg",
+            "name": "HackerRank",
+            "link": ""
+        },
+        {
+            "img": "images/icons/Mail.svg",
+            "name": "Mail",
+            "link": ""
+        }
+    ]
+}
