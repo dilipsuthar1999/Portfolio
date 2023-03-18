@@ -8,7 +8,7 @@ import Footer from './Footer'
 
 const Body = ({ Data }) => {
 
-    const [darkToggle, setDarkToggle] = useState(false)
+    const [darkToggle, setDarkToggle] = useState(true)
 
     const changeTheme = () => {
         setDarkToggle(!darkToggle)
