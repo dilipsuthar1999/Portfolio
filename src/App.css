@@ -53,7 +53,7 @@ a:hover {
 }
 
 .gray-color {
-  color: var(--gray-color);
+  color: var(--gray-color) !important;
 }
 
 .text-bg {
@@ -91,7 +91,7 @@ a:hover {
 
 .work-card:hover {
   background: var(--primary-color);
-  box-shadow: 0 0 15px #858585;
+  box-shadow: 0 0 10px var(--gray-color);
 }
 
 .heading-style::after {
