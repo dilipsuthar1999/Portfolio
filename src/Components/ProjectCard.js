@@ -5,7 +5,7 @@ const ProjectCard = ({ projects }) => {
         <div className="mt-14 grid grid-cols-1 gap-y-5 gap-x-5 sm:grid-cols-2 md:grid-cols-3">
             {
                 projects.map((item, i) => (
-                    <div key={i} className="group relative rounded-2xl h-72 overflow-hidden project-card">
+                    <div key={i} className="group relative rounded-2xl h-72 overflow-hidden project-card dark:project-card-light">
                         <img src={item.img} alt={item.name} className="w-full h-full" />
                         <h5 className="text-lg text-white absolute inset-x-0 bottom-0 py-3 text-center">{item.name}</h5>
                         <div className="absolute inset-0 project-body">
