@@ -94,19 +94,19 @@
         {
             "company": "Wipro",
             "role": "Project Engineer",
-            "period": "Oct 2022 (Present)",
+            "period": "Oct 2021 (Present)",
             "responsibility": "At Wipro, I worked as a Test Engineer and gained valuable experience in manual testing. I analyzed business needs and changes to develop a comprehensive list of test scenarios. I executed tests and prepared test data as per requirements, utilizing my strong knowledge of Jira for creating stories or raising bugs."
         },
         {
             "company": "Edunify",
             "role": "Software Developer",
-            "period": "March 2021 - Oct 2022",
+            "period": "Mar 2021 - Oct 2021",
             "responsibility": "At Edunify, I worked as a UI/UX Designer and Front End Developer intern. I understood business requirements and translated them into interactive designs. I built the frontend from scratch and implemented my designs."
         },
         {
             "company": "WriteSoft",
             "role": "Web Developer",
-            "period": "Nov 2020 - Jan 2021",
+            "period": "Nov 2020 - Dec 2020",
             "responsibility": "While at WriteSoft, I worked as a Full Stack Developer intern, where I translated UI designs into frontend code. I crafted a dashboard for the same and implemented backend functionality such as adding, updating, and deleting product information as per requirements."
         }
     ],
